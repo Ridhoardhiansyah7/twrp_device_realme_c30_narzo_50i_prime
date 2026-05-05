@@ -60,7 +60,7 @@ Minor checks
 * \[X] USB mass storage export
 * \[X] set brightness
 * \[ ] vibrate (no sysfs found)
-* \[ ] Flashlight (a12 branch only)
+* \[ ] Flashlight
 * \[X] screenshot
 * \[X] partition SD card
 
